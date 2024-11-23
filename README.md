@@ -1,7 +1,7 @@
 Live URL: https://aminbiography.github.io/Password-Strength-Checker-For-Developers/
 
 
-Password Strength Checker
+<h1>Password Strength Checker</h1>
 This Python function check_password_strength() verifies the strength of a given password based on several criteria. The function checks if the password meets the following conditions:
 
 Length: The password must be at least 8 characters long.
@@ -11,7 +11,7 @@ Digits: The password should include at least one numeric digit (0-9).
 Special Characters: The password should include at least one special character from the set !@#$%^&*(),.?":{}|<>.
 If the password meets all these criteria, it is considered strong. Otherwise, the function will provide specific feedback on what is missing.
 
-How It Works:
+<h1>How It Works:</h1>
 The function first checks the password's length and alerts if it's less than 8 characters.
 Then, it uses regular expressions (re.search()) to check for uppercase letters, lowercase letters, digits, and special characters.
 The function returns a message indicating whether the password is strong or what needs improvement.
