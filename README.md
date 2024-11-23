@@ -33,7 +33,7 @@ This script can be used for ensuring that user passwords meet basic security sta
 
 
 
-Password Strength Checker
+<h1>Password Strength Checker</h1>
 This Python script helps you evaluate the strength of passwords based on common security criteria. It checks if the password meets the following standards:
 
 Minimum length of 8 characters
@@ -44,8 +44,8 @@ At least one special character (e.g., !@#$%^&*)
 How to Use
 Clone or Download the Repository:
 
-You can clone the repository using Git:
-bash
+<h1>You can clone the repository using Git:
+bash</h1>
 Copy code
 git clone https://github.com/your-username/password-strength-checker.git
 Or download it as a ZIP file and extract it to your local machine.
@@ -78,7 +78,7 @@ Password should include at least one uppercase letter.
 Use Case
 This script is useful for:
 
-Web developers: Ensuring that user passwords meet minimum security standards.
+<h1>Web developers:</h1> Ensuring that user passwords meet minimum security standards.
 End-users: Checking if their personal passwords are secure.
 System administrators: Enforcing strong password policies across systems.
 Contributing
