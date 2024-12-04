@@ -1,6 +1,6 @@
 Live URL: https://aminbiography.github.io/Password-Strength-Checker-For-Developers/
 
-
+```
 <h1>Password Strength Checker</h1>
 This Python function check_password_strength() verifies the strength of a given password based on several criteria. The function checks if the password meets the following conditions:
 
@@ -83,6 +83,6 @@ End-users: Checking if their personal passwords are secure.
 System administrators: Enforcing strong password policies across systems.
 Contributing
 Feel free to fork this repository, open an issue, or submit a pull request for any improvements or bug fixes.
-
+```
 
 
